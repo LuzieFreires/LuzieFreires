@@ -1,2 +1,2 @@
 try
-1 + 1
+luziegwapa
